@@ -35,8 +35,6 @@ Pods/
 
 *.xcworkspace
 
-# XcodeGen
-*.xcodeproj
 
 # SwiftGen
 *+Generated.swift
